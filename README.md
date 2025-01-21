@@ -1,4 +1,4 @@
-**AQI.ipynb**
+**AQI.ipynb** - **Analyzing Air Quality Index (AQI) Trends in a City**
 
 Tasks performed - 
 1. Import the "city_day.csv" dataset.
