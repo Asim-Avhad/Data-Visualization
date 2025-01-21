@@ -1,4 +1,5 @@
-*AQI.ipynb* 
+**AQI.ipynb**
+
 Tasks performed - 
 1. Import the "city_day.csv" dataset.
 2. Explore the dataset to understand its structure and content.
